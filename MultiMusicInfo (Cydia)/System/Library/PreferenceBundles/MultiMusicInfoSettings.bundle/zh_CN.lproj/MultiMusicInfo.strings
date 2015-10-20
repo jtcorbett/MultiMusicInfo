@@ -1,0 +1,5 @@
+"Graphics by Aaron Runnels (Rykah)" = "界面设计：Aaron Runnels (Rykah)";
+"MultiMusicInfo" = "MultiMusicInfo";
+"Only Show Album" = "仅显示歌曲名";
+"Overlay Enabled" = "专辑图片边框";
+"You can add custom overlays to /var/mobile/Library/MultiMusicInfo" = "您可以将自制专辑图片边框放在此目录:\n/var/mobile/Library/MultiMusicInfo/";
